@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "image": "https://picsum.photos/seed/1/300/300",
+    "quantity": 25,
+    "price": 19.99
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "image": "https://picsum.photos/seed/2/300/300",
+    "quantity": 15,
+    "price": 79.99
+  },
+  {
+    "name": "USB-C Charger",
+    "image": "https://picsum.photos/seed/3/300/300",
+    "quantity": 40,
+    "price": 24.99
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "image": "https://picsum.photos/seed/4/300/300",
+    "quantity": 18,
+    "price": 49.99
+  },
+  {
+    "name": "Laptop Stand",
+    "image": "https://picsum.photos/seed/5/300/300",
+    "quantity": 30,
+    "price": 34.99
+  },
+  {
+    "name": "Gaming Headset",
+    "image": "https://picsum.photos/seed/6/300/300",
+    "quantity": 20,
+    "price": 69.99
+  },
+  {
+    "name": "External SSD",
+    "image": "https://picsum.photos/seed/7/300/300",
+    "quantity": 12,
+    "price": 129.99
+  },
+  {
+    "name": "HD Webcam",
+    "image": "https://picsum.photos/seed/8/300/300",
+    "quantity": 22,
+    "price": 59.99
+  },
+  {
+    "name": "Smart Watch",
+    "image": "https://picsum.photos/seed/9/300/300",
+    "quantity": 14,
+    "price": 199.99
+  },
+  {
+    "name": "Portable Power Bank",
+    "image": "https://picsum.photos/seed/10/300/300",
+    "quantity": 35,
+    "price": 39.99
+  },
+  {
+    "name": "Wireless Earbuds",
+    "image": "https://picsum.photos/seed/11/300/300",
+    "quantity": 28,
+    "price": 89.99
+  },
+  {
+    "name": "Desk Lamp",
+    "image": "https://picsum.photos/seed/12/300/300",
+    "quantity": 19,
+    "price": 29.99
+  },
+  {
+    "name": "Monitor 24 Inch",
+    "image": "https://picsum.photos/seed/13/300/300",
+    "quantity": 10,
+    "price": 179.99
+  },
+  {
+    "name": "Wireless Router",
+    "image": "https://picsum.photos/seed/14/300/300",
+    "quantity": 16,
+    "price": 99.99
+  },
+  {
+    "name": "USB Flash Drive",
+    "image": "https://picsum.photos/seed/15/300/300",
+    "quantity": 50,
+    "price": 14.99
+  },
+  {
+    "name": "Graphics Tablet",
+    "image": "https://picsum.photos/seed/16/300/300",
+    "quantity": 8,
+    "price": 149.99
+  },
+  {
+    "name": "Action Camera",
+    "image": "https://picsum.photos/seed/17/300/300",
+    "quantity": 11,
+    "price": 249.99
+  },
+  {
+    "name": "Smartphone Tripod",
+    "image": "https://picsum.photos/seed/18/300/300",
+    "quantity": 24,
+    "price": 22.99
+  },
+  {
+    "name": "Microphone",
+    "image": "https://picsum.photos/seed/19/300/300",
+    "quantity": 13,
+    "price": 74.99
+  },
+  {
+    "name": "LED Strip Lights",
+    "image": "https://picsum.photos/seed/20/300/300",
+    "quantity": 45,
+    "price": 18.99
+  },
+  {
+    "name": "Coffee Maker",
+    "image": "https://picsum.photos/seed/21/300/300",
+    "quantity": 9,
+    "price": 89.99
+  },
+  {
+    "name": "Electric Kettle",
+    "image": "https://picsum.photos/seed/22/300/300",
+    "quantity": 17,
+    "price": 39.99
+  },
+  {
+    "name": "Blender",
+    "image": "https://picsum.photos/seed/23/300/300",
+    "quantity": 12,
+    "price": 59.99
+  },
+  {
+    "name": "Air Fryer",
+    "image": "https://picsum.photos/seed/24/300/300",
+    "quantity": 10,
+    "price": 129.99
+  },
+  {
+    "name": "Vacuum Cleaner",
+    "image": "https://picsum.photos/seed/25/300/300",
+    "quantity": 7,
+    "price": 159.99
+  },
+  {
+    "name": "Office Chair",
+    "image": "https://picsum.photos/seed/26/300/300",
+    "quantity": 6,
+    "price": 199.99
+  },
+  {
+    "name": "Standing Desk",
+    "image": "https://picsum.photos/seed/27/300/300",
+    "quantity": 5,
+    "price": 299.99
+  },
+  {
+    "name": "Notebook",
+    "image": "https://picsum.photos/seed/28/300/300",
+    "quantity": 100,
+    "price": 4.99
+  },
+  {
+    "name": "Ballpoint Pen Set",
+    "image": "https://picsum.photos/seed/29/300/300",
+    "quantity": 80,
+    "price": 9.99
+  },
+  {
+    "name": "Backpack",
+    "image": "https://picsum.photos/seed/30/300/300",
+    "quantity": 21,
+    "price": 49.99
+  },
+  {
+    "name": "Travel Mug",
+    "image": "https://picsum.photos/seed/31/300/300",
+    "quantity": 27,
+    "price": 19.99
+  },
+  {
+    "name": "Water Bottle",
+    "image": "https://picsum.photos/seed/32/300/300",
+    "quantity": 33,
+    "price": 14.99
+  },
+  {
+    "name": "Yoga Mat",
+    "image": "https://picsum.photos/seed/33/300/300",
+    "quantity": 18,
+    "price": 29.99
+  },
+  {
+    "name": "Dumbbell Set",
+    "image": "https://picsum.photos/seed/34/300/300",
+    "quantity": 9,
+    "price": 89.99
+  },
+  {
+    "name": "Running Shoes",
+    "image": "https://picsum.photos/seed/35/300/300",
+    "quantity": 16,
+    "price": 109.99
+  },
+  {
+    "name": "Sunglasses",
+    "image": "https://picsum.photos/seed/36/300/300",
+    "quantity": 30,
+    "price": 24.99
+  },
+  {
+    "name": "Wallet",
+    "image": "https://picsum.photos/seed/37/300/300",
+    "quantity": 26,
+    "price": 34.99
+  },
+  {
+    "name": "Wrist Watch",
+    "image": "https://picsum.photos/seed/38/300/300",
+    "quantity": 14,
+    "price": 149.99
+  },
+  {
+    "name": "Perfume",
+    "image": "https://picsum.photos/seed/39/300/300",
+    "quantity": 12,
+    "price": 69.99
+  },
+  {
+    "name": "Hair Dryer",
+    "image": "https://picsum.photos/seed/40/300/300",
+    "quantity": 15,
+    "price": 44.99
+  },
+  {
+    "name": "Electric Toothbrush",
+    "image": "https://picsum.photos/seed/41/300/300",
+    "quantity": 20,
+    "price": 59.99
+  },
+  {
+    "name": "Camping Tent",
+    "image": "https://picsum.photos/seed/42/300/300",
+    "quantity": 8,
+    "price": 179.99
+  },
+  {
+    "name": "Sleeping Bag",
+    "image": "https://picsum.photos/seed/43/300/300",
+    "quantity": 13,
+    "price": 79.99
+  },
+  {
+    "name": "Hiking Backpack",
+    "image": "https://picsum.photos/seed/44/300/300",
+    "quantity": 11,
+    "price": 119.99
+  },
+  {
+    "name": "Mountain Bike Helmet",
+    "image": "https://picsum.photos/seed/45/300/300",
+    "quantity": 17,
+    "price": 54.99
+  },
+  {
+    "name": "Cookware Set",
+    "image": "https://picsum.photos/seed/46/300/300",
+    "quantity": 10,
+    "price": 139.99
+  },
+  {
+    "name": "Dinner Plate Set",
+    "image": "https://picsum.photos/seed/47/300/300",
+    "quantity": 22,
+    "price": 49.99
+  },
+  {
+    "name": "Table Fan",
+    "image": "https://picsum.photos/seed/48/300/300",
+    "quantity": 19,
+    "price": 34.99
+  },
+  {
+    "name": "Bluetooth Tracker",
+    "image": "https://picsum.photos/seed/49/300/300",
+    "quantity": 31,
+    "price": 24.99
+  },
+  {
+    "name": "Digital Alarm Clock",
+    "image": "https://picsum.photos/seed/50/300/300",
+    "quantity": 23,
+    "price": 27.99
+  }
+]
